@@ -1,0 +1,22 @@
+{
+  "name": "w-jsc-502-par-2-2-irc-majid.eltayeb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-PAR-2-2-irc-majid.eltayeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-PAR-2-2-irc-majid.eltayeb/issues"
+  },
+  "homepage": "https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-PAR-2-2-irc-majid.eltayeb#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
